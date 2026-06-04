@@ -1,0 +1,27 @@
+node_modules/
+build/
+dist/
+coverage/
+*.tsbuildinfo
+.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# Environment
+.env*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# AI / opencode internals
+.opencode/
+
+# AI Studio metadata
+assets/.aistudio/
